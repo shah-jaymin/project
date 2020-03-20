@@ -1,0 +1,37 @@
+.navbar {
+    // margin-top: 1%;
+    // background-color:;
+    border-bottom: 1px solid #ccc;
+    box-shadow: 0 0 2px #aaa;
+    padding: 0 1rem !important;
+    height: 60px;
+    line-height: 60px;
+    // background-color: #95a5a6;
+
+
+    // .nav-right {
+    //     float: right;
+    // }
+
+    .msg {
+        // background: transparent; 
+    }
+
+    .notify {
+        margin-left: 20px;
+        height: 25px;
+    }
+
+    .profile {
+        margin-left: 10px;
+        // height: 25px;
+    }
+
+    .headerOptions {
+        width: 100%;
+    }
+
+    .headerAdditionalOptions {
+        display: flex;
+    }
+}
